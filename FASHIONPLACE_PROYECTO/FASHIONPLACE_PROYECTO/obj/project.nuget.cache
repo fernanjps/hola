@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yxlw7sa9+IuGXaX4bi5kAZkqVi46c3AyJG+Rxuek8UXdqLUqkizMfseQPx5WYVCkz5wEpsIOjLjfhy+RqmL7xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Downloads\\FASHIONPLACE_PROYECTO\\FASHIONPLACE_PROYECTO\\FASHIONPLACE_PROYECTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

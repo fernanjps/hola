@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FASHIONPLACE_PROYECTO.ClassPadre">
+    <Position X="7.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIACEAAAgAIEAGAAgAAAAIEAAgAAAAAAAgAAAAA=</HashCode>
+      <FileName>ClassPadre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASHIONPLACE_PROYECTO.Decorador">
+    <Position X="16" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Decorador.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FASHIONPLACE_PROYECTO.FichaAdministrador">
+    <Position X="7.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAgAAAAAAEAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>FichaAdministrador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASHIONPLACE_PROYECTO.FichaUsuario">
+    <Position X="11.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAEAAAAAAAAEAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>FichaUsuario.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FASHIONPLACE_PROYECTO.FichaVendedor">
+    <Position X="4.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAIACEAAAAAAAAAAAAAACAAEAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>FichaVendedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASHIONPLACE_PROYECTO.Item_1">
+    <Position X="17.75" Y="8.75" Width="1.5" />
+    <InheritanceLine Type="FASHIONPLACE_PROYECTO.Decorador" FixedToPoint="true">
+      <Path>
+        <Point X="16.75" Y="7.734" />
+        <Point X="16.75" Y="8.75" />
+        <Point X="17.75" Y="8.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Item_1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASHIONPLACE_PROYECTO.Item_2">
+    <Position X="14.25" Y="9" Width="1.5" />
+    <InheritanceLine Type="FASHIONPLACE_PROYECTO.Decorador" FixedToPoint="true">
+      <Path>
+        <Point X="16.75" Y="7.734" />
+        <Point X="16.75" Y="8.75" />
+        <Point X="15.062" Y="8.75" />
+        <Point X="15.062" Y="9" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Item_2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASHIONPLACE_PROYECTO.Program">
+    <Position X="14" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASHIONPLACE_PROYECTO.RequisitosFuncionales">
+    <Position X="12" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RequisitosFuncionales.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="FASHIONPLACE_PROYECTO.OrdenBase">
+    <Position X="14" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OrdenBase.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="8.91" />
+</ClassDiagram>
