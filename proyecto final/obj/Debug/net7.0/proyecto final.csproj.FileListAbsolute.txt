@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\proyecto final\bin\Debug\net7.0\proyecto final.exe
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\proyecto final\bin\Debug\net7.0\proyecto final.deps.json
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\proyecto final\bin\Debug\net7.0\proyecto final.runtimeconfig.json
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\proyecto final\bin\Debug\net7.0\proyecto final.dll
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\proyecto final\bin\Debug\net7.0\proyecto final.pdb
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\proyecto final\obj\Debug\net7.0\proyecto final.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\proyecto final\obj\Debug\net7.0\proyecto final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\proyecto final\obj\Debug\net7.0\proyecto final.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\proyecto final\obj\Debug\net7.0\proyecto final.AssemblyInfo.cs
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\proyecto final\obj\Debug\net7.0\proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\proyecto final\obj\Debug\net7.0\proyecto final.dll
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\proyecto final\obj\Debug\net7.0\refint\proyecto final.dll
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\proyecto final\obj\Debug\net7.0\proyecto final.pdb
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\proyecto final\obj\Debug\net7.0\proyecto final.genruntimeconfig.cache
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\proyecto final\obj\Debug\net7.0\ref\proyecto final.dll
