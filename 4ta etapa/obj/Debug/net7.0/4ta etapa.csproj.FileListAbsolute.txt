@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\las 2 partes\4ta etapa\bin\Debug\net7.0\4ta etapa.exe
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\las 2 partes\4ta etapa\bin\Debug\net7.0\4ta etapa.deps.json
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\las 2 partes\4ta etapa\bin\Debug\net7.0\4ta etapa.runtimeconfig.json
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\las 2 partes\4ta etapa\bin\Debug\net7.0\4ta etapa.dll
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\las 2 partes\4ta etapa\bin\Debug\net7.0\4ta etapa.pdb
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\las 2 partes\4ta etapa\obj\Debug\net7.0\4ta etapa.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\las 2 partes\4ta etapa\obj\Debug\net7.0\4ta etapa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\las 2 partes\4ta etapa\obj\Debug\net7.0\4ta etapa.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\las 2 partes\4ta etapa\obj\Debug\net7.0\4ta etapa.AssemblyInfo.cs
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\las 2 partes\4ta etapa\obj\Debug\net7.0\4ta etapa.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\las 2 partes\4ta etapa\obj\Debug\net7.0\4ta etapa.dll
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\las 2 partes\4ta etapa\obj\Debug\net7.0\refint\4ta etapa.dll
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\las 2 partes\4ta etapa\obj\Debug\net7.0\4ta etapa.pdb
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\las 2 partes\4ta etapa\obj\Debug\net7.0\4ta etapa.genruntimeconfig.cache
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\las 2 partes\4ta etapa\obj\Debug\net7.0\ref\4ta etapa.dll
