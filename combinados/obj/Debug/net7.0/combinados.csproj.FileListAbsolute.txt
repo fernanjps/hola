@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\las 2 partes\combinados\obj\Debug\net7.0\combinados.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\las 2 partes\combinados\obj\Debug\net7.0\combinados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\las 2 partes\combinados\obj\Debug\net7.0\combinados.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\las 2 partes\combinados\obj\Debug\net7.0\combinados.AssemblyInfo.cs
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\las 2 partes\combinados\obj\Debug\net7.0\combinados.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\las 2 partes\combinados\bin\Debug\net7.0\combinados.exe
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\las 2 partes\combinados\bin\Debug\net7.0\combinados.deps.json
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\las 2 partes\combinados\bin\Debug\net7.0\combinados.runtimeconfig.json
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\las 2 partes\combinados\bin\Debug\net7.0\combinados.dll
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\las 2 partes\combinados\bin\Debug\net7.0\combinados.pdb
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\las 2 partes\combinados\obj\Debug\net7.0\combinados.dll
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\las 2 partes\combinados\obj\Debug\net7.0\refint\combinados.dll
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\las 2 partes\combinados\obj\Debug\net7.0\combinados.pdb
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\las 2 partes\combinados\obj\Debug\net7.0\combinados.genruntimeconfig.cache
+C:\Users\HP\Documents\tarea de fips\3 nivel\programacion orientada o\2 ibtneto\las 2 partes\combinados\obj\Debug\net7.0\ref\combinados.dll
