@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\recupe\bin\Debug\net7.0\recupe.exe
+C:\Users\HP\Desktop\recupe\bin\Debug\net7.0\recupe.deps.json
+C:\Users\HP\Desktop\recupe\bin\Debug\net7.0\recupe.runtimeconfig.json
+C:\Users\HP\Desktop\recupe\bin\Debug\net7.0\recupe.dll
+C:\Users\HP\Desktop\recupe\bin\Debug\net7.0\recupe.pdb
+C:\Users\HP\Desktop\recupe\obj\Debug\net7.0\recupe.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\recupe\obj\Debug\net7.0\recupe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\recupe\obj\Debug\net7.0\recupe.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\recupe\obj\Debug\net7.0\recupe.AssemblyInfo.cs
+C:\Users\HP\Desktop\recupe\obj\Debug\net7.0\recupe.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\recupe\obj\Debug\net7.0\recupe.dll
+C:\Users\HP\Desktop\recupe\obj\Debug\net7.0\refint\recupe.dll
+C:\Users\HP\Desktop\recupe\obj\Debug\net7.0\recupe.pdb
+C:\Users\HP\Desktop\recupe\obj\Debug\net7.0\recupe.genruntimeconfig.cache
+C:\Users\HP\Desktop\recupe\obj\Debug\net7.0\ref\recupe.dll
