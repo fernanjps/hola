@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Departamento de Bienestar Universitario</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Departamento de Bienestar Universitario</h1>
+        <nav id="navbar">
+            <a href="#about">Acerca de</a>
+            <a href="#services">Servicios</a>
+
+            
+            <a href="#contact">Contacto</a>
+
+           
+            </a>
+        </nav>
+    </header>
+    <main>
+        <section id="about">
+            <h2>Acerca de</h2>
+            <p>El Departamento de Bienestar Universitario se dedica a ofrecer servicios que promueven el bienestar integral de los estudiantes.</p>
+        </section>
+        <section id="services">
+            <h2>Servicios</h2>
+
+            <!-- Agregar esta sección en el archivo index.html después de la sección de servicios -->
+<section id="formularioCliente">
+    <h2>Formulario de Cliente</h2>
+    <form id="clientForm">
+        <input type="text" id="clientName" placeholder="Nombre del Cliente" required>
+        <input type="email" id="clientEmail" placeholder="Email del Cliente" required>
+        <select id="clientService" required>
+            <option value="">Selecciona un Servicio</option>
+            <option value="consejeria">Consejería Psicológica</option>
+            <option value="recreativas">Actividades Recreativas</option>
+            <option value="financiero">Apoyo Financiero</option>
+        </select>
+        <button type="submit">Registrar</button>
+    </form>
+</section>
+
+            <ul>
+                <li>Consejería Psicológica</li>
+                <li>Actividades Recreativas</li>
+                <li>Apoyo Financiero</li>
+            </ul>
+        </section>
+        <section id="contact">
+            <h2>Contacto</h2>
+            <form id="contactForm">
+                <input type="text" id="name" placeholder="Tu Nombre" required>
+                <input type="email" id="email" placeholder="Tu Email" required>
+                <textarea id="message" placeholder="Tu Mensaje" required></textarea>
+                <button type="submit">Enviar</button>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 Departamento de Bienestar Universitario</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
