@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    <meta name="theme-color" content="#2091F9">
+    <meta property="og:type" content="website">
+    
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>  Departamento de Bienestar Universitario  </title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="./css/normalize.css">
+    <link rel="stylesheet" href="./css/botones.css">
+    <link rel="stylesheet" href="./css/home.css">
+
+    
+    
+
+
+</head>
+<body>
+    <header class="hero" style="background-image: url(' images/fondo.jpg ');">
+        <nav class="nav container">
+            <div class="nav__logo">
+                <h2 class="nav__title">Departamento de Bienestar Universitario</h2>
+            </div>
+    
+            <ul class="nav__link nav__link--menu">
+                <li class="nav__items">
+                    <a href="index.html" class="nav__links">Inicio</a>
+                </li>
+                <li class="nav__items">
+                    <a href="about.html" class="nav__links">Acerca de</a>
+                </li>
+                <li class="nav__items">
+                    <a href="services.html" class="nav__links">Servicios Ofrecidos</a>
+                </li>
+                <li class="nav__items">
+                    <a href="faq.html" class="nav__links">FAQ</a>
+                </li>
+                <li class="nav__items">
+                    <a href="contacto.html" class="nav__links">Contacto</a>
+                </li>
+                <li class="nav__items">
+                    <a href="accesoyregistro.html" class="nav__links">Acceso/Registro</a>
+                </li>
+    
+                <img src="./images/close.svg" class="nav__close">
+            </ul>
+    
+            <div class="nav__menu">
+                <img src="./images/menu.svg" class="nav__img">
+            </div>
+        </nav>
+    
+        <section class="hero__container container">
+            <h1 class="hero__title">Departamento de Bienestar Universitario</h1>
+            <p class="hero__paragraph">Lo importante que es hacer ejercicio y la buena alimentación.</p>
+            <a href="accesoyregistro.html" class="cta">Inicia sesión</a>
+        </section>
+    </header>
+    
+    <main>
+        <!-- Agregar esta sección en el archivo index.html después de la sección de servicios -->
+
+        <section class="news-section" onclick="window.location.href='blog.html'">
+            <div class="news-item">
+                <img src=" images/ejercicio.jpg " alt="Imagen 1" class="news-image">
+                <h3 class="news-title">Investigación revela los beneficios del ejercicio en el rendimiento académico de los estudiantes universitarios</h3>
+                <p class="news-description">Un estudio reciente publicado en la revista científica Journal of Health Psychology encontró una fuerte correlación entre la actividad física regular y el rendimiento académico en estudiantes universitarios. Los investigadores descubrieron que los estudiantes que realizaban ejercicio físico moderado a vigoroso regularmente mostraban un mejor rendimiento en las evaluaciones académicas y tenían una menor incidencia de estrés y ansiedad.</p>
+                <a href="blog.html" class="read-more">Leer más</a>
+            </div>
+        </section>
+        
+        <section class="news-section" onclick="window.location.href='blog.html'">
+            <div class="news-item">
+                <img src=" images/saludmental.jpg " alt="Imagen 2" class="news-image">
+                <h3 class="news-title">Departamento de Bienestar Universitario lanza nueva iniciativa para promover la salud mental de los estudiantes</h3>
+                <p class="news-description">El Departamento de Bienestar Universitario ha anunciado el lanzamiento de un programa integral para abordar las necesidades de salud mental de los estudiantes. La iniciativa incluye sesiones de orientación, servicios de asesoramiento individualizado, actividades de mindfulness y grupos de apoyo para promover el bienestar emocional y psicológico en el campus.</p>
+                <a href=" blog.html " class="read-more">Leer más</a>
+            </div>
+        </section>
+        
+        <!-- Puedes agregar más secciones de noticias aquí -->
+        
+        
+        <section class="student-list">
+            <h2>Lista de Estudiantes</h2>
+            <p class="introduction">Conoce a nuestros estuiantes universitarios:</p>
+            <!-- Aquí va la lista de estudiantes -->
+        </section>
+            
+
+
+        <section class="testimony">
+            <div class="testimony__container container">
+                <img src="./images/leftarrow.svg" class="testimony__arrow" id="before">
+
+                <section class="testimony__body testimony__body--show" data-id="1">
+                    <div class="testimony__texts">
+                        <h2 class="subtitle">Mi nombre es Jordan Alexander, <span class="testimony__course">estudiante
+                                de Ingeniería Informática.</span></h2>
+                        <p class="testimony__review">Mi nombre es Jordan Alexander, y soy estudiante de Ingeniería Informática. Me apasiona el desarrollo de software y estoy muy emocionado de ser parte de la comunidad universitaria. Estoy buscando oportunidades para participar en proyectos de investigación, hackathons y eventos relacionados con mi campo de estudio. También estoy interesado en conocer a otros estudiantes que compartan mis intereses y formar parte de grupos de estudio o clubes.</p>
+                    </div>
+
+                    <figure class="testimony__picture">
+                        <img src="./images/face3.jpg" class="testimony__img">
+                    </figure>
+                </section>
+
+                <section class="testimony__body" data-id="2">
+                    <div class="testimony__texts">
+                        <h2 class="subtitle">Mi nombre es Alejandra Perez, <span class="testimony__course">estudiante de
+                                psicologia.</span></h2>
+                        <p class="testimony__review">Mi nombre es Alejandra Pérez, y soy estudiante de Psicología. Me apasiona comprender el comportamiento humano y estoy muy entusiasmada de comenzar mi camino en este campo. Estoy buscando oportunidades para participar en investigaciones, grupos de estudio y eventos relacionados con la salud mental y el bienestar. También me interesa conocer a otros estudiantes que compartan mis pasiones y formar parte de organizaciones estudiantiles.</p>
+                    </div>
+
+                    <figure class="testimony__picture">
+                        <img src="./images/face2.jpg" class="testimony__img">
+                    </figure>
+                </section>
+
+                <section class="testimony__body" data-id="3">
+                    <div class="testimony__texts">
+                        <h2 class="subtitle">Mi nombre es Karen Arteaga, <span class="testimony__course">y soy estudiante de Trabajo Social.</span></h2>
+                        <p class="testimony__review">Mi nombre es Karen Arteaga, y soy estudiante de Trabajo Social. Me apasiona ayudar a las personas y estoy comprometida con la promoción del bienestar social y la justicia social. Estoy buscando oportunidades para participar en proyectos de servicio comunitario, pasantías y eventos relacionados con el desarrollo social y la defensa de los derechos humanos. También me interesa conocer a otros estudiantes que compartan mis valores y formar parte de organizaciones estudiantiles que trabajen por un cambio positivo.</p>
+                    </div>
+
+                    <figure class="testimony__picture">
+                        <img src="./images/face.jpg" class="testimony__img">
+                    </figure>
+                </section>
+
+                <section class="testimony__body" data-id="4">
+                    <div class="testimony__texts">
+                        <h2 class="subtitle">Mi nombre es Kevin Ramirez, <span class="testimony__course">soy estudiante de Nutrición.</span></h2>
+                        <p class="testimony__review">Mi nombre es Kevin Ramírez, y soy estudiante de Nutrición. Me apasiona promover hábitos alimenticios saludables y estoy comprometido con la mejora de la salud pública. Estoy buscando oportunidades para participar en programas de educación nutricional, investigaciones sobre alimentación y eventos relacionados con la seguridad alimentaria. También me interesa conocer a otros estudiantes que compartan mis valores y formar parte de organizaciones estudiantiles que promuevan un estilo de vida saludable en el campus.</p>
+                    </div>
+
+                    <figure class="testimony__picture">
+                        <img src="./images/face4.jpg" class="testimony__img">
+                    </figure>
+                </section>
+
+
+                <img src="./images/rightarrow.svg" class="testimony__arrow" id="next">
+            </div>
+        </section>
+
+
+        <section id="formularioCliente">
+            <h2>Formulario de Cliente</h2>
+            <form id="clientForm">
+                <input type="text" id="clientName" placeholder="Nombre del Cliente" required>
+                <input type="email" id="clientEmail" placeholder="Email del Cliente" required>
+                <select id="clientService" required>
+                    <option value="">Selecciona un Servicio</option>
+                    <option value="consejeria">Consejería Psicológica</option>
+                    <option value="recreativas">Actividades Recreativas</option>
+                    <option value="financiero">Apoyo Financiero</option>
+                </select>
+                <button type="submit">Registrar</button>
+            </form>
+        </section>
+    </main>
+
+    
+
+    <footer class="footer">
+        <section class="footer__container container">
+            <nav class="nav nav--footer">
+                <h2 class="footer__title">Departamento bienestar universitario.</h2>
+
+                <ul class="nav__link nav__link--footer">
+                    <li class="nav__items">
+                        <a href="#" class="nav__links">Inicio</a>
+                    </li>
+                    <li class="nav__items">
+                        <a href="#" class="nav__links">Acerca de</a>
+                    </li>
+                    <li class="nav__items">
+                        <a href="#" class="nav__links">Contacto</a>
+                    </li>
+                    <li class="nav__items">
+                        <a href="#" class="nav__links">Blog</a>
+                    </li>
+                </ul>
+            </nav>
+
+        
+        </section>
+
+        <section class="footer__copy container">
+            <div class="footer__social">
+                <a href="https://www.facebook.com/bienestaruniversitario" class="footer__icons">
+                    <img src="./images/facebook.svg" class="footer__img" alt="Facebook">
+                </a>
+            
+                <a href="https://www.twitter.com/bienestaruni" class="footer__icons">
+                    <img src="./images/twitter.svg" class="footer__img" alt="Twitter">
+                </a>
+                
+                <a href="https://www.instagram.com/bienestaruniversitario" class="footer__icons">
+                    <img src="./images/youtube.svg" class="footer__img" alt="Instagram">
+                </a>
+                
+            </div>
+            
+
+            <h3 class="footer__copyright">Derechos reservados &copy; fernanjps</h3>
+        </section>
+    </footer>
+    
+
+    <script src="./js/index.js"></script>
+    <script src="./js/slider.js"></script>
+    <script src="./js/questions.js"></script>
+    <script src="./js/menu.js"></script>
+</body>
+</body>
+</html>

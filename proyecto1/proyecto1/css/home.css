@@ -1,0 +1,147 @@
+/* Estilos generales */
+.news-section {
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.news-item {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.news-image {
+    width: 100%;
+    height: auto;
+}
+
+.news-title {
+    font-size: 1.5rem;
+    margin: 10px 0;
+}
+
+.news-description {
+    margin: 0;
+    padding: 10px;
+}
+
+.read-more {
+    display: block;
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    transition: background-color 0.3s;
+}
+
+.read-more:hover {
+    background-color: #0056b3;
+}
+
+
+/* Estilos generales */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    overflow: hidden;
+}
+
+.hero {
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: 50px 0;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav__logo {
+    flex: 1;
+}
+
+.nav__title {
+    margin: 0;
+}
+
+.nav__link {
+    list-style: none;
+    margin-left: 20px;
+}
+
+.nav__items {
+    display: inline-block;
+}
+
+.nav__links {
+    color: #fff;
+    text-decoration: none;
+}
+
+.nav__menu, .nav__close {
+    display: none;
+}
+
+.hero__container {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.hero__title {
+    margin: 0;
+}
+
+.hero__paragraph {
+    margin-top: 20px;
+}
+
+.cta {
+    display: inline-block;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.cta:hover {
+    background-color: #0056b3;
+}
+
+/* Estilos responsivos */
+@media screen and (max-width: 768px) {
+    .nav__link {
+        display: none;
+    }
+
+    .nav__menu, .nav__close {
+        display: block;
+    }
+
+    .nav__close {
+        cursor: pointer;
+    }
+
+    .nav__link--menu {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        background-color: #333;
+        width: 100%;
+        padding: 20px;
+        box-sizing: border-box;
+        z-index: 999;
+    }
+
+    .nav__items {
+        margin-bottom: 10px;
+    }
+}

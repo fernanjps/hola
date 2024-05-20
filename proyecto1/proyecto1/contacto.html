@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de Contacto - Departamento de Bienestar Universitario</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="./css/normalize.css">
+    
+</head>
+<body>
+    <header>
+        <h1>Departamento de Bienestar Universitario</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="about.html">Acerca de</a></li>
+                <li><a href="services.html">Servicios Ofrecidos</a></li>
+                
+                
+                <li><a href="faq.html">FAQ</a></li>
+                <li><a href="contacto.html">Contacto</a></li>
+                <li><a href="accesoyregistro.html">Acceso/Registro</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <form id="contactForm">
+            <label for="name">Nombre:</label>
+            <input type="text" id="name" name="name" required>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+            <label for="message">Mensaje:</label>
+            <textarea id="message" name="message" required></textarea>
+            <button type="submit">Enviar</button>
+        </form>
+    </main>
+    
+
+    <footer class="footer">
+        <section class="footer__container container">
+            <nav class="nav nav--footer">
+                <h2 class="footer__title">Departamento bienestar universitario.</h2>
+
+                <ul class="nav__link nav__link--footer">
+                    <li class="nav__items">
+                        <a href="#" class="nav__links">Inicio</a>
+                    </li>
+                    <li class="nav__items">
+                        <a href="#" class="nav__links">Acerca de</a>
+                    </li>
+                    <li class="nav__items">
+                        <a href="#" class="nav__links">Contacto</a>
+                    </li>
+                    <li class="nav__items">
+                        <a href="#" class="nav__links">Blog</a>
+                    </li>
+                </ul>
+            </nav>
+
+        
+        </section>
+
+        <section class="footer__copy container">
+            <div class="footer__social">
+                <a href="https://www.facebook.com/bienestaruniversitario" class="footer__icons">
+                    <img src="./images/facebook.svg" class="footer__img" alt="Facebook">
+                </a>
+            
+                <a href="https://www.twitter.com/bienestaruni" class="footer__icons">
+                    <img src="./images/twitter.svg" class="footer__img" alt="Twitter">
+                </a>
+                
+                <a href="https://www.instagram.com/bienestaruniversitario" class="footer__icons">
+                    <img src="./images/youtube.svg" class="footer__img" alt="Instagram">
+                </a>
+                
+            </div>
+            
+
+            <h3 class="footer__copyright">Derechos reservados &copy; fernanjps</h3>
+        </section>
+    </footer>
+
+
+    <script src="./js/index.js"></script>
+    <script src="./js/slider.js"></script>
+    <script src="./js/questions.js"></script>
+    <script src="./js/menu.js"></script>
+</body>
+</html>
+

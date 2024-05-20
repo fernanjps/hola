@@ -1,0 +1,233 @@
+/* Estilos generales */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+
+/* Estilos para las secciones de artículo */
+
+.blog-post {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.blog-post h2 {
+    color: #333;
+}
+
+.blog-post p {
+    color: #666;
+}
+
+.blog-post img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+/* Estilos para el pie de página */
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer__icons {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.footer__icons img {
+    width: 30px;
+    height: auto;
+}
+
+/* Estilos adicionales para botones y enlaces */
+
+.read-more {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.read-more:hover {
+    text-decoration: underline;
+}
+
+/* Estilos para las secciones de artículo */
+
+.blog-post {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.blog-post h2 {
+    color: #333;
+}
+
+.blog-post p {
+    color: #666;
+}
+
+.blog-post img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+/* Estilos para el encabezado */
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+    padding: 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+nav ul li a:hover {
+    background-color: #555;
+}
+
+/* Estilos para el contenido del artículo */
+.article-content {
+    margin-top: 20px;
+}
+
+/* Estilos para el título del artículo */
+.article-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* Estilos para los subtítulos del artículo */
+.article-subtitle {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+/* Estilos para las imágenes del artículo */
+.article-image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+/* Estilos para el texto del artículo */
+.article-text {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+/* Estilos para el fondo del blog */
+.blog-background {
+    background-color: #f2f2f2; /* Color de fondo */
+    background-image: url('images/fondo.jpg'); /* URL de la imagen de fondo */
+    background-size: cover; /* Ajustar el tamaño de la imagen para cubrir todo el fondo */
+    background-position: center; /* Posición de la imagen de fondo */
+    background-repeat: no-repeat; /* No repetir la imagen de fondo */
+}
+/* Estilos para los elementos de la lista */
+.blog-post ul {
+    list-style-type: disc; /* Tipo de viñeta */
+    margin-left: 20px; /* Margen izquierdo para la lista */
+    padding-left: 20px; /* Relleno izquierdo para la lista */
+}
+
+/* Estilos para los elementos de la lista anidada */
+.blog-post ul ul {
+    list-style-type: circle; /* Tipo de viñeta */
+    margin-left: 20px; /* Margen izquierdo para la lista anidada */
+    padding-left: 20px; /* Relleno izquierdo para la lista anidada */
+}
+
+/* Estilos para los elementos de la lista numerada */
+.blog-post ol {
+    list-style-type: decimal; /* Tipo de numeración */
+    margin-left: 20px; /* Margen izquierdo para la lista numerada */
+    padding-left: 20px; /* Relleno izquierdo para la lista numerada */
+}
+
+/* Estilos para los elementos de la lista de definición */
+.blog-post dl {
+    margin-left: 20px; /* Margen izquierdo para la lista de definición */
+}
+
+/* Estilos para los términos de la lista de definición */
+.blog-post dt {
+    font-weight: bold; /* Texto en negrita para los términos */
+}
+
+/* Estilos para los elementos de la lista de definición */
+.blog-post dd {
+    margin-left: 20px; /* Margen izquierdo para los elementos de la lista de definición */
+}
+
+/* Estilos para los elementos de la lista de descripción */
+.blog-post dl {
+    margin-left: 20px; /* Margen izquierdo para la lista de descripción */
+}
+
+/* Estilos para los elementos de la lista de descripción */
+.blog-post dl dt {
+    font-weight: bold; /* Texto en negrita para los términos */
+}
+
+/* Estilos para los elementos de la lista de descripción */
+.blog-post dl dd {
+    margin-left: 20px; /* Margen izquierdo para los elementos de la lista de descripción */
+}
+
+
+body {
+    background-color: #f0f0f0; /* Color de fondo */
+    margin: 20px; /* Margen exterior */
+}
+
+.container {
+    max-width: 1200px; /* Ancho máximo del contenido */
+    margin: 0 auto; /* Centrar el contenido */
+}
+
+.blog-post {
+    background-color: #fff; /* Color de fondo del blog post */
+    padding: 20px; /* Espaciado interior */
+    margin-bottom: 20px; /* Margen inferior */
+    border-radius: 5px; /* Bordes redondeados */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Sombra */
+}
+
+.post-content {
+    padding-top: 20px; /* Espaciado superior */
+}
