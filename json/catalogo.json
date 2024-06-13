@@ -1,0 +1,19 @@
+{
+    "catalogo": [
+        {
+            "autor": "Piguave Sacido Fernando",
+            "titulo": "5TO B",
+            "genero": "Computación",
+            "precio": 29.95,
+            "publicacion": "2021-04-01"
+        },
+        {
+            "autor": "Jane Doe",
+            "titulo": "Introducción a JSON",
+            "genero": "Tecnología",
+            "precio": 19.95,
+            "publicacion": "2020-08-15"
+        }
+    ]
+}
+
