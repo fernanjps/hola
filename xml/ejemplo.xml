@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo>
+    <libro>
+        <autor>Raúl González Duque</autor>
+        <titulo>Python para todos</titulo>
+        <genero>Computación</genero>
+        <precio>29.95</precio>
+        <publicacion>2021-04-01</publicacion>
+    </libro>
+    <libro>
+        <autor>Jane Doe</autor>
+        <titulo>Introducción a XML</titulo>
+        <genero>Tecnología</genero>
+        <precio>19.95</precio>
+        <publicacion>2020-08-15</publicacion>
+    </libro>
+</catalogo>

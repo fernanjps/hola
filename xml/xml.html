@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Catálogo de Libros</title>
+    <link rel="stylesheet" href="styles.css">
+    
+</head>
+<body>
+    <h1>Catálogo de Libros</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Autor</th>
+                <th>Título</th>
+                <th>Género</th>
+                <th>Precio</th>
+                <th>Publicación</th>
+            </tr>
+        </thead>
+        <tbody id="catalogoLibros">
+        </tbody>
+    </table>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const xmlString = `<?xml version="1.0" encoding="UTF-8"?>
+                <catalogo>
+                    <libro>
+                        <autor>Raúl González Duque</autor>
+                        <titulo>Python para todos</titulo>
+                        <genero>Computación</genero>
+                        <precio>29.95</precio>
+                        <publicacion>2021-04-01</publicacion>
+                    </libro>
+                    <libro>
+                        <autor>Jane Doe</autor>
+                        <titulo>Introducción a XML</titulo>
+                        <genero>Tecnología</genero>
+                        <precio>19.95</precio>
+                        <publicacion>2020-08-15</publicacion>
+                    </libro>
+                </catalogo>`;
+
+            const parser = new DOMParser();
+            const xmlDoc = parser.parseFromString(xmlString, "application/xml");
+
+            const catalogo = xmlDoc.getElementsByTagName("libro");
+            const tbody = document.getElementById("catalogoLibros");
+
+            for (let i = 0; i < catalogo.length; i++) {
+                const autor = catalogo[i].getElementsByTagName("autor")[0].childNodes[0].nodeValue;
+                const titulo = catalogo[i].getElementsByTagName("titulo")[0].childNodes[0].nodeValue;
+                const genero = catalogo[i].getElementsByTagName("genero")[0].childNodes[0].nodeValue;
+                const precio = catalogo[i].getElementsByTagName("precio")[0].childNodes[0].nodeValue;
+                const publicacion = catalogo[i].getElementsByTagName("publicacion")[0].childNodes[0].nodeValue;
+
+                const row = document.createElement("tr");
+                row.innerHTML = `
+                    <td>${autor}</td>
+                    <td>${titulo}</td>
+                    <td>${genero}</td>
+                    <td>${precio}</td>
+                    <td>${publicacion}</td>
+                `;
+                tbody.appendChild(row);
+            }
+        });
+    </script>
+</body>
+</html>

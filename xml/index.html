@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Comparación XML vs JSON</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .heading {
+            text-align: center;
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="heading">Comparación XML vs JSON</div>
+
+    <table>
+        <tr>
+            <th>Aspecto</th>
+            <th>XML</th>
+            <th>JSON</th>
+        </tr>
+        <tr>
+            <td>Características</td>
+            <td>
+                <ul>
+                    <li>Lenguaje de marcado: Utiliza una estructura de etiquetas similar a HTML.</li>
+                    <li>Flexibilidad: Permite estructuras complejas y personalizadas, y soporta validación mediante DTDs y esquemas XSD.</li>
+                    <li>Legibilidad para máquinas: Principalmente interpretado por máquinas, aunque también es legible para humanos.</li>
+                    <li>Uso común: Utilizado en servicios web (especialmente SOAP), configuración de aplicaciones, e integración de sistemas empresariales.</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Formato de texto ligero: Utiliza una estructura basada en pares clave-valor.</li>
+                    <li>Simplicidad: Más sencillo y menos verboso que XML, con una estructura más clara y directa.</li>
+                    <li>Legibilidad para humanos y máquinas: Fácil de leer y escribir tanto para humanos como para máquinas.</li>
+                    <li>Uso común: Utilizado principalmente en APIs RESTful, transmisión de datos entre servidor y navegador web, y configuración de aplicaciones.</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Validación</td>
+            <td>
+                <ul>
+                    <li>Soporta DTDs (Document Type Definitions) y XSDs (XML Schema Definition) para la validación de la estructura y contenido.</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>No tiene un esquema de validación estándar integrado, aunque existen herramientas como JSON Schema para este propósito.</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Verbosidad</td>
+            <td>
+                <ul>
+                    <li>Más verboso debido al uso de etiquetas de apertura y cierre.</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Menos verboso, lo que resulta en archivos más pequeños y tiempos de procesamiento más rápidos.</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Legibilidad</td>
+            <td>
+                <ul>
+                    <li>Legible para humanos, pero puede ser más difícil de leer debido a su verbosidad.</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Más legible para humanos gracias a su estructura simple y clara.</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Uso en Web</td>
+            <td>
+                <ul>
+                    <li>Utilizado en servicios web SOAP, donde la estructura rica y la capacidad de validación son importantes.</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Utilizado principalmente en APIs RESTful y comunicación cliente-servidor en aplicaciones web.</li>
+                </ul>
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>
